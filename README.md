@@ -2,7 +2,6 @@
 
 ###### ![Kaitoss Project home page](https://i.ibb.co/6NSKBtV/1.webp)
 
-###### [Watch it here live](https://devmaheremad.github.io/kaitoss-project)
 
 ### - Introduction about Kaitoss Project:
 
